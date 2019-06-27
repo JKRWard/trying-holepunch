@@ -1,26 +1,21 @@
 Type: Compendium
-Package: Jess's compendium
+Package: Jess's-awesome-compendium
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.1
 Authors@R: 
     person(given = "First",
            family = "Last",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: A fabulous compendium
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A wonderful compendium
 License: What license it uses
 Depends: 
     dataRetrieval,
-    dataRetrieval,
-    dplyr,
     dplyr,
     ggplot2,
-    ggplot2,
-    lubridate,
     lubridate,
     tidyr,
-    tidyr,
-    viridis,
     viridis
 Encoding: UTF-8
 LazyData: true
