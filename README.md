@@ -51,4 +51,8 @@ build_binder()
 Now, run through analysis.R till you get to a plot
 ```
 
+ <!-- badges: start -->
+  [![Launch Rstudio Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/JKRWard/trying-holepunch/master?urlpath=rstudio)
+  <!-- badges: end -->
+
 Does clicking the badge launch binder for you? If not, please [file an issue](https://github.com/karthik/binder-test/issues/new).
